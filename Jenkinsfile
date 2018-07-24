@@ -1,7 +1,7 @@
 node {
 
 stage 'checkout'
-git 'https://github.com/Mohamedji/CloudenabledWebApp.git'
+git 'https://github.com/narrasubbarao/dev1_repo.git'
 
 stage 'compile'
 sh 'mvn compile'
